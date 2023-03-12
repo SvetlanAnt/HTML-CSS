@@ -1,0 +1,207 @@
+.diagonal-gradient {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, #FED7D7, #0FD5E0);
+}
+
+h1{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-bottom: 80px;
+    line-height: 0px;
+}
+
+h6{
+    font-size: 30px;
+}
+
+a{
+   height: 30px;
+   font-size: 35px;
+   padding-left: 150px;
+   padding-bottom: 80px;
+
+}
+
+
+
+
+header{
+    width: 100%;
+    text-align: center;
+}
+
+#cart{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    }
+
+#about{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#about2, #about3, #about4{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#cart2{
+    width: 100%;
+    height: 100%;
+}
+
+#cart3{
+    width: 100%;
+    height: 100%;
+}
+
+#cart4{
+    width: 100%;
+    height: 100%;
+}
+
+#elem1{
+    position: absolute;
+    top: 210px;
+    left: 8px;
+
+    width: 300px;
+    height: 790px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+#elem2{
+    position: absolute;
+    top: 210px;
+    right: 8px;
+
+    width: 300px;
+    height: 790px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+#elem3{
+    position: absolute;
+    top: 2100px;
+    left: 8px;
+
+    width: 300px;
+    height: 170px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+#elem4{
+    position: absolute;
+    top: 2100px;
+    right: 8px;
+
+    width: 300px;
+    height: 170px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+#elem5{
+    position: absolute;
+    top: 3950px;
+    left: 8px;
+
+    width: 300px;
+    height: 170px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+#elem6{
+    position: absolute;
+    top: 3950px;
+    right: 8px;
+
+    width: 300px;
+    height: 170px;
+    background: linear-gradient(to bottom right, #f14d07, #fb8d1e);
+}
+
+footer{
+    height: 200px;
+    background:black;
+}
+
+.tel{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.s1{
+    position: absolute;
+    top: 1150px;
+    right: 350px;
+}
+
+.s2{
+    position: absolute;
+    top: 1700px;
+    right: 350px;
+}
+
+.s3{
+    position: absolute;
+    top: 2400px;
+    right: 350px;
+}
+
+.s4{
+    position: absolute;
+    top: 2960px;
+    right: 350px;
+}
+
+.s5{
+    position: absolute;
+    top: 3545px;
+    right: 350px;
+}
+
+.s6{
+    position: absolute;
+    top: 4340px;
+    right: 350px;
+}
+
+.s7{
+    position: absolute;
+    top: 4940px;
+    right: 350px;
+}
+
+.s8{
+    position: absolute;
+    top: 5415px;
+    right: 350px;
+}
+
+.s9{
+    position: absolute;
+    top: 5980px;
+    right: 350px;
+}
+
+
+
+
